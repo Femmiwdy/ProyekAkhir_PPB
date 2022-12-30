@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/background_single_line.xml" value="0.1335" />
+        <entry key="app/src/main/res/layout/action_bar_titleview.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/activity_add_music.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/activity_artist_music.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/activity_demo_media_player.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/adapter_artist_name_view.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/artist_list_adapter.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_folder.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/fragment_music_list.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.2246376811594203" />
+        <entry key="app/src/main/res/layout/login_temp.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/music_grid_layout.xml" value="0.456752655538695" />
+        <entry key="app/src/main/res/layout/music_player_layout.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/notification_media_player.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/register.xml" value="0.22192028985507245" />
+        <entry key="app/src/main/res/layout/registration.xml" value="0.2246376811594203" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.2635416666666667" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
